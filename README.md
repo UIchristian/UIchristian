@@ -39,8 +39,4 @@ Acredito que, quando conseguimos solucionar necessidades seja ela humana ou de m
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UIchristian&layout=compact&theme=dark&hide_border=true&hide_title=true&hide=jupyter%20notebook,html,css" alt="" width="48%" />
 </div>
 
-### Projetos em destaque (pin depois)
-- **DADOS-PYTHON-BOOT-ALURA** – Bootcamp de dados em Python  
-- Mais projetos UI/UX e designs em breve!
-
 ---
